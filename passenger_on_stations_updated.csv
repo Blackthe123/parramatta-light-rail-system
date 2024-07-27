@@ -1,0 +1,1057 @@
+time,station,passengers
+07:00,Westmead,27
+07:00,Westmead Hospital,19
+07:00,Childrens Hospital,33
+07:00,Ngara,32
+07:00,Benaud Oval,31
+07:00,Fennel Street,30
+07:00,Prince Alfred Square,58
+07:00,Church Street,57
+07:00,Parramatta Square,49
+07:00,Robin Thomas,52
+07:00,Tramway Avenue,33
+07:00,Rosehill Gardens,34
+07:00,Yallamundi,28
+07:00,Dundas,24
+07:00,Telopea,31
+07:00,Carlingford,26
+07:07,Westmead,35
+07:07,Westmead Hospital,28
+07:07,Childrens Hospital,33
+07:07,Ngara,30
+07:07,Benaud Oval,30
+07:07,Fennel Street,33
+07:07,Prince Alfred Square,52
+07:07,Church Street,58
+07:07,Parramatta Square,52
+07:07,Robin Thomas,52
+07:07,Tramway Avenue,35
+07:07,Rosehill Gardens,31
+07:07,Yallamundi,18
+07:07,Dundas,23
+07:07,Telopea,25
+07:07,Carlingford,28
+07:15,Westmead,30
+07:15,Westmead Hospital,24
+07:15,Childrens Hospital,35
+07:15,Ngara,31
+07:15,Benaud Oval,22
+07:15,Fennel Street,24
+07:15,Prince Alfred Square,60
+07:15,Church Street,49
+07:15,Parramatta Square,57
+07:15,Robin Thomas,63
+07:15,Tramway Avenue,27
+07:15,Rosehill Gardens,21
+07:15,Yallamundi,19
+07:15,Dundas,25
+07:15,Telopea,20
+07:15,Carlingford,24
+07:22,Westmead,24
+07:22,Westmead Hospital,30
+07:22,Childrens Hospital,24
+07:22,Ngara,24
+07:22,Benaud Oval,27
+07:22,Fennel Street,29
+07:22,Prince Alfred Square,58
+07:22,Church Street,44
+07:22,Parramatta Square,57
+07:22,Robin Thomas,63
+07:22,Tramway Avenue,28
+07:22,Rosehill Gardens,35
+07:22,Yallamundi,26
+07:22,Dundas,31
+07:22,Telopea,20
+07:22,Carlingford,29
+07:30,Westmead,27
+07:30,Westmead Hospital,26
+07:30,Childrens Hospital,30
+07:30,Ngara,36
+07:30,Benaud Oval,29
+07:30,Fennel Street,30
+07:30,Prince Alfred Square,54
+07:30,Church Street,57
+07:30,Parramatta Square,52
+07:30,Robin Thomas,56
+07:30,Tramway Avenue,24
+07:30,Rosehill Gardens,30
+07:30,Yallamundi,36
+07:30,Dundas,22
+07:30,Telopea,27
+07:30,Carlingford,20
+07:37,Westmead,31
+07:37,Westmead Hospital,22
+07:37,Childrens Hospital,25
+07:37,Ngara,28
+07:37,Benaud Oval,23
+07:37,Fennel Street,25
+07:37,Prince Alfred Square,63
+07:37,Church Street,51
+07:37,Parramatta Square,48
+07:37,Robin Thomas,47
+07:37,Tramway Avenue,23
+07:37,Rosehill Gardens,28
+07:37,Yallamundi,30
+07:37,Dundas,29
+07:37,Telopea,23
+07:37,Carlingford,19
+07:45,Westmead,28
+07:45,Westmead Hospital,20
+07:45,Childrens Hospital,32
+07:45,Ngara,20
+07:45,Benaud Oval,32
+07:45,Fennel Street,23
+07:45,Prince Alfred Square,60
+07:45,Church Street,46
+07:45,Parramatta Square,51
+07:45,Robin Thomas,61
+07:45,Tramway Avenue,27
+07:45,Rosehill Gardens,24
+07:45,Yallamundi,35
+07:45,Dundas,33
+07:45,Telopea,35
+07:45,Carlingford,35
+07:52,Westmead,34
+07:52,Westmead Hospital,30
+07:52,Childrens Hospital,29
+07:52,Ngara,19
+07:52,Benaud Oval,32
+07:52,Fennel Street,23
+07:52,Prince Alfred Square,57
+07:52,Church Street,60
+07:52,Parramatta Square,62
+07:52,Robin Thomas,46
+07:52,Tramway Avenue,25
+07:52,Rosehill Gardens,34
+07:52,Yallamundi,33
+07:52,Dundas,18
+07:52,Telopea,18
+07:52,Carlingford,22
+08:00,Westmead,25
+08:00,Westmead Hospital,27
+08:00,Childrens Hospital,22
+08:00,Ngara,31
+08:00,Benaud Oval,23
+08:00,Fennel Street,30
+08:00,Prince Alfred Square,60
+08:00,Church Street,50
+08:00,Parramatta Square,48
+08:00,Robin Thomas,54
+08:00,Tramway Avenue,34
+08:00,Rosehill Gardens,23
+08:00,Yallamundi,17
+08:00,Dundas,29
+08:00,Telopea,31
+08:00,Carlingford,17
+08:07,Westmead,20
+08:07,Westmead Hospital,26
+08:07,Childrens Hospital,28
+08:07,Ngara,30
+08:07,Benaud Oval,30
+08:07,Fennel Street,33
+08:07,Prince Alfred Square,47
+08:07,Church Street,55
+08:07,Parramatta Square,44
+08:07,Robin Thomas,45
+08:07,Tramway Avenue,17
+08:07,Rosehill Gardens,29
+08:07,Yallamundi,35
+08:07,Dundas,32
+08:07,Telopea,33
+08:07,Carlingford,20
+08:15,Westmead,30
+08:15,Westmead Hospital,34
+08:15,Childrens Hospital,24
+08:15,Ngara,17
+08:15,Benaud Oval,30
+08:15,Fennel Street,33
+08:15,Prince Alfred Square,45
+08:15,Church Street,48
+08:15,Parramatta Square,54
+08:15,Robin Thomas,59
+08:15,Tramway Avenue,31
+08:15,Rosehill Gardens,30
+08:15,Yallamundi,22
+08:15,Dundas,23
+08:15,Telopea,32
+08:15,Carlingford,23
+08:22,Westmead,23
+08:22,Westmead Hospital,28
+08:22,Childrens Hospital,32
+08:22,Ngara,17
+08:22,Benaud Oval,21
+08:22,Fennel Street,34
+08:22,Prince Alfred Square,55
+08:22,Church Street,60
+08:22,Parramatta Square,50
+08:22,Robin Thomas,44
+08:22,Tramway Avenue,23
+08:22,Rosehill Gardens,30
+08:22,Yallamundi,21
+08:22,Dundas,30
+08:22,Telopea,33
+08:22,Carlingford,28
+08:30,Westmead,21
+08:30,Westmead Hospital,9
+08:30,Childrens Hospital,5
+08:30,Ngara,4
+08:30,Benaud Oval,14
+08:30,Fennel Street,19
+08:30,Prince Alfred Square,21
+08:30,Church Street,17
+08:30,Parramatta Square,37
+08:30,Robin Thomas,36
+08:30,Tramway Avenue,11
+08:30,Rosehill Gardens,10
+08:30,Yallamundi,23
+08:30,Dundas,9
+08:30,Telopea,17
+08:30,Carlingford,13
+08:45,Westmead,8
+08:45,Westmead Hospital,14
+08:45,Childrens Hospital,11
+08:45,Ngara,22
+08:45,Benaud Oval,11
+08:45,Fennel Street,6
+08:45,Prince Alfred Square,31
+08:45,Church Street,19
+08:45,Parramatta Square,32
+08:45,Robin Thomas,37
+08:45,Tramway Avenue,17
+08:45,Rosehill Gardens,11
+08:45,Yallamundi,6
+08:45,Dundas,12
+08:45,Telopea,4
+08:45,Carlingford,19
+09:00,Westmead,9
+09:00,Westmead Hospital,6
+09:00,Childrens Hospital,20
+09:00,Ngara,23
+09:00,Benaud Oval,18
+09:00,Fennel Street,13
+09:00,Prince Alfred Square,21
+09:00,Church Street,31
+09:00,Parramatta Square,17
+09:00,Robin Thomas,22
+09:00,Tramway Avenue,9
+09:00,Rosehill Gardens,4
+09:00,Yallamundi,14
+09:00,Dundas,6
+09:00,Telopea,19
+09:00,Carlingford,23
+09:15,Westmead,21
+09:15,Westmead Hospital,22
+09:15,Childrens Hospital,12
+09:15,Ngara,6
+09:15,Benaud Oval,13
+09:15,Fennel Street,4
+09:15,Prince Alfred Square,19
+09:15,Church Street,19
+09:15,Parramatta Square,36
+09:15,Robin Thomas,25
+09:15,Tramway Avenue,22
+09:15,Rosehill Gardens,23
+09:15,Yallamundi,7
+09:15,Dundas,20
+09:15,Telopea,7
+09:15,Carlingford,12
+09:30,Westmead,3
+09:30,Westmead Hospital,23
+09:30,Childrens Hospital,8
+09:30,Ngara,4
+09:30,Benaud Oval,3
+09:30,Fennel Street,4
+09:30,Prince Alfred Square,20
+09:30,Church Street,28
+09:30,Parramatta Square,35
+09:30,Robin Thomas,33
+09:30,Tramway Avenue,5
+09:30,Rosehill Gardens,11
+09:30,Yallamundi,19
+09:30,Dundas,3
+09:30,Telopea,13
+09:30,Carlingford,21
+09:45,Westmead,8
+09:45,Westmead Hospital,14
+09:45,Childrens Hospital,9
+09:45,Ngara,22
+09:45,Benaud Oval,16
+09:45,Fennel Street,4
+09:45,Prince Alfred Square,37
+09:45,Church Street,25
+09:45,Parramatta Square,28
+09:45,Robin Thomas,21
+09:45,Tramway Avenue,15
+09:45,Rosehill Gardens,14
+09:45,Yallamundi,19
+09:45,Dundas,5
+09:45,Telopea,17
+09:45,Carlingford,12
+10:00,Westmead,22
+10:00,Westmead Hospital,5
+10:00,Childrens Hospital,12
+10:00,Ngara,4
+10:00,Benaud Oval,22
+10:00,Fennel Street,21
+10:00,Prince Alfred Square,19
+10:00,Church Street,26
+10:00,Parramatta Square,27
+10:00,Robin Thomas,35
+10:00,Tramway Avenue,13
+10:00,Rosehill Gardens,23
+10:00,Yallamundi,20
+10:00,Dundas,12
+10:00,Telopea,23
+10:00,Carlingford,4
+10:15,Westmead,17
+10:15,Westmead Hospital,20
+10:15,Childrens Hospital,14
+10:15,Ngara,21
+10:15,Benaud Oval,9
+10:15,Fennel Street,3
+10:15,Prince Alfred Square,36
+10:15,Church Street,17
+10:15,Parramatta Square,32
+10:15,Robin Thomas,31
+10:15,Tramway Avenue,9
+10:15,Rosehill Gardens,13
+10:15,Yallamundi,14
+10:15,Dundas,13
+10:15,Telopea,11
+10:15,Carlingford,23
+10:30,Westmead,3
+10:30,Westmead Hospital,10
+10:30,Childrens Hospital,19
+10:30,Ngara,12
+10:30,Benaud Oval,15
+10:30,Fennel Street,19
+10:30,Prince Alfred Square,17
+10:30,Church Street,28
+10:30,Parramatta Square,30
+10:30,Robin Thomas,19
+10:30,Tramway Avenue,20
+10:30,Rosehill Gardens,18
+10:30,Yallamundi,14
+10:30,Dundas,15
+10:30,Telopea,13
+10:30,Carlingford,13
+10:45,Westmead,18
+10:45,Westmead Hospital,20
+10:45,Childrens Hospital,23
+10:45,Ngara,11
+10:45,Benaud Oval,14
+10:45,Fennel Street,13
+10:45,Prince Alfred Square,18
+10:45,Church Street,34
+10:45,Parramatta Square,37
+10:45,Robin Thomas,25
+10:45,Tramway Avenue,3
+10:45,Rosehill Gardens,11
+10:45,Yallamundi,23
+10:45,Dundas,16
+10:45,Telopea,5
+10:45,Carlingford,22
+11:00,Westmead,5
+11:00,Westmead Hospital,13
+11:00,Childrens Hospital,13
+11:00,Ngara,19
+11:00,Benaud Oval,15
+11:00,Fennel Street,21
+11:00,Prince Alfred Square,23
+11:00,Church Street,34
+11:00,Parramatta Square,20
+11:00,Robin Thomas,33
+11:00,Tramway Avenue,16
+11:00,Rosehill Gardens,23
+11:00,Yallamundi,4
+11:00,Dundas,17
+11:00,Telopea,6
+11:00,Carlingford,11
+11:15,Westmead,23
+11:15,Westmead Hospital,4
+11:15,Childrens Hospital,4
+11:15,Ngara,23
+11:15,Benaud Oval,15
+11:15,Fennel Street,3
+11:15,Prince Alfred Square,34
+11:15,Church Street,17
+11:15,Parramatta Square,21
+11:15,Robin Thomas,17
+11:15,Tramway Avenue,4
+11:15,Rosehill Gardens,19
+11:15,Yallamundi,13
+11:15,Dundas,16
+11:15,Telopea,8
+11:15,Carlingford,18
+11:30,Westmead,7
+11:30,Westmead Hospital,10
+11:30,Childrens Hospital,16
+11:30,Ngara,21
+11:30,Benaud Oval,10
+11:30,Fennel Street,22
+11:30,Prince Alfred Square,29
+11:30,Church Street,22
+11:30,Parramatta Square,22
+11:30,Robin Thomas,35
+11:30,Tramway Avenue,12
+11:30,Rosehill Gardens,3
+11:30,Yallamundi,17
+11:30,Dundas,17
+11:30,Telopea,5
+11:30,Carlingford,17
+11:45,Westmead,4
+11:45,Westmead Hospital,6
+11:45,Childrens Hospital,11
+11:45,Ngara,14
+11:45,Benaud Oval,11
+11:45,Fennel Street,8
+11:45,Prince Alfred Square,21
+11:45,Church Street,22
+11:45,Parramatta Square,25
+11:45,Robin Thomas,32
+11:45,Tramway Avenue,11
+11:45,Rosehill Gardens,14
+11:45,Yallamundi,6
+11:45,Dundas,15
+11:45,Telopea,13
+11:45,Carlingford,15
+12:00,Westmead,10
+12:00,Westmead Hospital,16
+12:00,Childrens Hospital,15
+12:00,Ngara,14
+12:00,Benaud Oval,17
+12:00,Fennel Street,4
+12:00,Prince Alfred Square,18
+12:00,Church Street,19
+12:00,Parramatta Square,32
+12:00,Robin Thomas,31
+12:00,Tramway Avenue,11
+12:00,Rosehill Gardens,3
+12:00,Yallamundi,7
+12:00,Dundas,9
+12:00,Telopea,14
+12:00,Carlingford,14
+12:15,Westmead,14
+12:15,Westmead Hospital,7
+12:15,Childrens Hospital,3
+12:15,Ngara,23
+12:15,Benaud Oval,14
+12:15,Fennel Street,9
+12:15,Prince Alfred Square,18
+12:15,Church Street,19
+12:15,Parramatta Square,34
+12:15,Robin Thomas,24
+12:15,Tramway Avenue,16
+12:15,Rosehill Gardens,11
+12:15,Yallamundi,23
+12:15,Dundas,11
+12:15,Telopea,12
+12:15,Carlingford,4
+12:30,Westmead,23
+12:30,Westmead Hospital,12
+12:30,Childrens Hospital,7
+12:30,Ngara,13
+12:30,Benaud Oval,5
+12:30,Fennel Street,4
+12:30,Prince Alfred Square,33
+12:30,Church Street,17
+12:30,Parramatta Square,26
+12:30,Robin Thomas,20
+12:30,Tramway Avenue,17
+12:30,Rosehill Gardens,20
+12:30,Yallamundi,19
+12:30,Dundas,4
+12:30,Telopea,10
+12:30,Carlingford,17
+12:45,Westmead,3
+12:45,Westmead Hospital,5
+12:45,Childrens Hospital,21
+12:45,Ngara,10
+12:45,Benaud Oval,20
+12:45,Fennel Street,21
+12:45,Prince Alfred Square,33
+12:45,Church Street,18
+12:45,Parramatta Square,26
+12:45,Robin Thomas,28
+12:45,Tramway Avenue,3
+12:45,Rosehill Gardens,14
+12:45,Yallamundi,20
+12:45,Dundas,5
+12:45,Telopea,9
+12:45,Carlingford,7
+13:00,Westmead,16
+13:00,Westmead Hospital,13
+13:00,Childrens Hospital,14
+13:00,Ngara,5
+13:00,Benaud Oval,10
+13:00,Fennel Street,15
+13:00,Prince Alfred Square,22
+13:00,Church Street,32
+13:00,Parramatta Square,19
+13:00,Robin Thomas,19
+13:00,Tramway Avenue,4
+13:00,Rosehill Gardens,10
+13:00,Yallamundi,22
+13:00,Dundas,16
+13:00,Telopea,10
+13:00,Carlingford,18
+13:15,Westmead,8
+13:15,Westmead Hospital,17
+13:15,Childrens Hospital,17
+13:15,Ngara,4
+13:15,Benaud Oval,19
+13:15,Fennel Street,5
+13:15,Prince Alfred Square,36
+13:15,Church Street,37
+13:15,Parramatta Square,37
+13:15,Robin Thomas,24
+13:15,Tramway Avenue,20
+13:15,Rosehill Gardens,12
+13:15,Yallamundi,5
+13:15,Dundas,15
+13:15,Telopea,20
+13:15,Carlingford,7
+13:30,Westmead,13
+13:30,Westmead Hospital,16
+13:30,Childrens Hospital,10
+13:30,Ngara,3
+13:30,Benaud Oval,13
+13:30,Fennel Street,18
+13:30,Prince Alfred Square,21
+13:30,Church Street,34
+13:30,Parramatta Square,18
+13:30,Robin Thomas,26
+13:30,Tramway Avenue,19
+13:30,Rosehill Gardens,14
+13:30,Yallamundi,4
+13:30,Dundas,16
+13:30,Telopea,8
+13:30,Carlingford,21
+13:45,Westmead,23
+13:45,Westmead Hospital,12
+13:45,Childrens Hospital,7
+13:45,Ngara,7
+13:45,Benaud Oval,19
+13:45,Fennel Street,13
+13:45,Prince Alfred Square,17
+13:45,Church Street,25
+13:45,Parramatta Square,30
+13:45,Robin Thomas,35
+13:45,Tramway Avenue,17
+13:45,Rosehill Gardens,19
+13:45,Yallamundi,11
+13:45,Dundas,3
+13:45,Telopea,19
+13:45,Carlingford,13
+14:00,Westmead,6
+14:00,Westmead Hospital,7
+14:00,Childrens Hospital,20
+14:00,Ngara,20
+14:00,Benaud Oval,3
+14:00,Fennel Street,5
+14:00,Prince Alfred Square,33
+14:00,Church Street,19
+14:00,Parramatta Square,18
+14:00,Robin Thomas,25
+14:00,Tramway Avenue,18
+14:00,Rosehill Gardens,13
+14:00,Yallamundi,18
+14:00,Dundas,13
+14:00,Telopea,6
+14:00,Carlingford,11
+14:15,Westmead,13
+14:15,Westmead Hospital,8
+14:15,Childrens Hospital,11
+14:15,Ngara,3
+14:15,Benaud Oval,10
+14:15,Fennel Street,13
+14:15,Prince Alfred Square,34
+14:15,Church Street,18
+14:15,Parramatta Square,25
+14:15,Robin Thomas,33
+14:15,Tramway Avenue,15
+14:15,Rosehill Gardens,22
+14:15,Yallamundi,3
+14:15,Dundas,6
+14:15,Telopea,19
+14:15,Carlingford,10
+14:30,Westmead,16
+14:30,Westmead Hospital,11
+14:30,Childrens Hospital,15
+14:30,Ngara,5
+14:30,Benaud Oval,21
+14:30,Fennel Street,22
+14:30,Prince Alfred Square,20
+14:30,Church Street,18
+14:30,Parramatta Square,35
+14:30,Robin Thomas,27
+14:30,Tramway Avenue,21
+14:30,Rosehill Gardens,13
+14:30,Yallamundi,4
+14:30,Dundas,17
+14:30,Telopea,13
+14:30,Carlingford,17
+14:45,Westmead,8
+14:45,Westmead Hospital,12
+14:45,Childrens Hospital,17
+14:45,Ngara,14
+14:45,Benaud Oval,17
+14:45,Fennel Street,20
+14:45,Prince Alfred Square,23
+14:45,Church Street,24
+14:45,Parramatta Square,37
+14:45,Robin Thomas,31
+14:45,Tramway Avenue,8
+14:45,Rosehill Gardens,18
+14:45,Yallamundi,22
+14:45,Dundas,16
+14:45,Telopea,4
+14:45,Carlingford,5
+15:00,Westmead,24
+15:00,Westmead Hospital,23
+15:00,Childrens Hospital,35
+15:00,Ngara,34
+15:00,Benaud Oval,27
+15:00,Fennel Street,35
+15:00,Prince Alfred Square,63
+15:00,Church Street,58
+15:00,Parramatta Square,59
+15:00,Robin Thomas,50
+15:00,Tramway Avenue,21
+15:00,Rosehill Gardens,35
+15:00,Yallamundi,18
+15:00,Dundas,35
+15:00,Telopea,30
+15:00,Carlingford,24
+15:07,Westmead,30
+15:07,Westmead Hospital,23
+15:07,Childrens Hospital,25
+15:07,Ngara,28
+15:07,Benaud Oval,27
+15:07,Fennel Street,28
+15:07,Prince Alfred Square,49
+15:07,Church Street,52
+15:07,Parramatta Square,62
+15:07,Robin Thomas,58
+15:07,Tramway Avenue,17
+15:07,Rosehill Gardens,33
+15:07,Yallamundi,21
+15:07,Dundas,27
+15:07,Telopea,19
+15:07,Carlingford,30
+15:15,Westmead,23
+15:15,Westmead Hospital,36
+15:15,Childrens Hospital,20
+15:15,Ngara,36
+15:15,Benaud Oval,23
+15:15,Fennel Street,34
+15:15,Prince Alfred Square,59
+15:15,Church Street,60
+15:15,Parramatta Square,58
+15:15,Robin Thomas,44
+15:15,Tramway Avenue,28
+15:15,Rosehill Gardens,31
+15:15,Yallamundi,20
+15:15,Dundas,34
+15:15,Telopea,23
+15:15,Carlingford,18
+15:22,Westmead,36
+15:22,Westmead Hospital,32
+15:22,Childrens Hospital,31
+15:22,Ngara,18
+15:22,Benaud Oval,30
+15:22,Fennel Street,22
+15:22,Prince Alfred Square,56
+15:22,Church Street,62
+15:22,Parramatta Square,62
+15:22,Robin Thomas,63
+15:22,Tramway Avenue,34
+15:22,Rosehill Gardens,31
+15:22,Yallamundi,23
+15:22,Dundas,32
+15:22,Telopea,21
+15:22,Carlingford,32
+15:30,Westmead,30
+15:30,Westmead Hospital,22
+15:30,Childrens Hospital,29
+15:30,Ngara,19
+15:30,Benaud Oval,23
+15:30,Fennel Street,20
+15:30,Prince Alfred Square,56
+15:30,Church Street,51
+15:30,Parramatta Square,53
+15:30,Robin Thomas,52
+15:30,Tramway Avenue,26
+15:30,Rosehill Gardens,18
+15:30,Yallamundi,27
+15:30,Dundas,30
+15:30,Telopea,36
+15:30,Carlingford,20
+15:37,Westmead,21
+15:37,Westmead Hospital,35
+15:37,Childrens Hospital,36
+15:37,Ngara,24
+15:37,Benaud Oval,34
+15:37,Fennel Street,21
+15:37,Prince Alfred Square,59
+15:37,Church Street,44
+15:37,Parramatta Square,61
+15:37,Robin Thomas,60
+15:37,Tramway Avenue,24
+15:37,Rosehill Gardens,32
+15:37,Yallamundi,24
+15:37,Dundas,30
+15:37,Telopea,30
+15:37,Carlingford,31
+15:45,Westmead,32
+15:45,Westmead Hospital,30
+15:45,Childrens Hospital,18
+15:45,Ngara,30
+15:45,Benaud Oval,23
+15:45,Fennel Street,36
+15:45,Prince Alfred Square,50
+15:45,Church Street,53
+15:45,Parramatta Square,50
+15:45,Robin Thomas,53
+15:45,Tramway Avenue,22
+15:45,Rosehill Gardens,27
+15:45,Yallamundi,23
+15:45,Dundas,23
+15:45,Telopea,28
+15:45,Carlingford,33
+15:52,Westmead,19
+15:52,Westmead Hospital,35
+15:52,Childrens Hospital,33
+15:52,Ngara,20
+15:52,Benaud Oval,30
+15:52,Fennel Street,31
+15:52,Prince Alfred Square,61
+15:52,Church Street,51
+15:52,Parramatta Square,49
+15:52,Robin Thomas,47
+15:52,Tramway Avenue,36
+15:52,Rosehill Gardens,23
+15:52,Yallamundi,35
+15:52,Dundas,32
+15:52,Telopea,22
+15:52,Carlingford,29
+16:00,Westmead,33
+16:00,Westmead Hospital,34
+16:00,Childrens Hospital,36
+16:00,Ngara,30
+16:00,Benaud Oval,20
+16:00,Fennel Street,21
+16:00,Prince Alfred Square,44
+16:00,Church Street,54
+16:00,Parramatta Square,53
+16:00,Robin Thomas,44
+16:00,Tramway Avenue,26
+16:00,Rosehill Gardens,34
+16:00,Yallamundi,29
+16:00,Dundas,18
+16:00,Telopea,33
+16:00,Carlingford,23
+16:07,Westmead,18
+16:07,Westmead Hospital,28
+16:07,Childrens Hospital,22
+16:07,Ngara,24
+16:07,Benaud Oval,27
+16:07,Fennel Street,19
+16:07,Prince Alfred Square,55
+16:07,Church Street,58
+16:07,Parramatta Square,58
+16:07,Robin Thomas,50
+16:07,Tramway Avenue,34
+16:07,Rosehill Gardens,27
+16:07,Yallamundi,19
+16:07,Dundas,36
+16:07,Telopea,23
+16:07,Carlingford,34
+16:15,Westmead,23
+16:15,Westmead Hospital,35
+16:15,Childrens Hospital,26
+16:15,Ngara,26
+16:15,Benaud Oval,21
+16:15,Fennel Street,25
+16:15,Prince Alfred Square,61
+16:15,Church Street,49
+16:15,Parramatta Square,56
+16:15,Robin Thomas,48
+16:15,Tramway Avenue,30
+16:15,Rosehill Gardens,22
+16:15,Yallamundi,22
+16:15,Dundas,22
+16:15,Telopea,27
+16:15,Carlingford,17
+16:22,Westmead,17
+16:22,Westmead Hospital,18
+16:22,Childrens Hospital,21
+16:22,Ngara,22
+16:22,Benaud Oval,36
+16:22,Fennel Street,18
+16:22,Prince Alfred Square,54
+16:22,Church Street,46
+16:22,Parramatta Square,57
+16:22,Robin Thomas,55
+16:22,Tramway Avenue,29
+16:22,Rosehill Gardens,36
+16:22,Yallamundi,18
+16:22,Dundas,33
+16:22,Telopea,36
+16:22,Carlingford,23
+16:30,Westmead,34
+16:30,Westmead Hospital,28
+16:30,Childrens Hospital,19
+16:30,Ngara,24
+16:30,Benaud Oval,23
+16:30,Fennel Street,30
+16:30,Prince Alfred Square,51
+16:30,Church Street,57
+16:30,Parramatta Square,62
+16:30,Robin Thomas,44
+16:30,Tramway Avenue,27
+16:30,Rosehill Gardens,34
+16:30,Yallamundi,35
+16:30,Dundas,23
+16:30,Telopea,25
+16:30,Carlingford,25
+16:37,Westmead,23
+16:37,Westmead Hospital,36
+16:37,Childrens Hospital,35
+16:37,Ngara,31
+16:37,Benaud Oval,30
+16:37,Fennel Street,28
+16:37,Prince Alfred Square,48
+16:37,Church Street,46
+16:37,Parramatta Square,54
+16:37,Robin Thomas,46
+16:37,Tramway Avenue,28
+16:37,Rosehill Gardens,34
+16:37,Yallamundi,25
+16:37,Dundas,29
+16:37,Telopea,29
+16:37,Carlingford,27
+16:45,Westmead,30
+16:45,Westmead Hospital,28
+16:45,Childrens Hospital,32
+16:45,Ngara,35
+16:45,Benaud Oval,35
+16:45,Fennel Street,17
+16:45,Prince Alfred Square,46
+16:45,Church Street,56
+16:45,Parramatta Square,61
+16:45,Robin Thomas,49
+16:45,Tramway Avenue,27
+16:45,Rosehill Gardens,22
+16:45,Yallamundi,27
+16:45,Dundas,28
+16:45,Telopea,28
+16:45,Carlingford,26
+16:52,Westmead,35
+16:52,Westmead Hospital,24
+16:52,Childrens Hospital,21
+16:52,Ngara,31
+16:52,Benaud Oval,36
+16:52,Fennel Street,30
+16:52,Prince Alfred Square,54
+16:52,Church Street,58
+16:52,Parramatta Square,56
+16:52,Robin Thomas,63
+16:52,Tramway Avenue,17
+16:52,Rosehill Gardens,26
+16:52,Yallamundi,34
+16:52,Dundas,20
+16:52,Telopea,27
+16:52,Carlingford,18
+17:00,Westmead,19
+17:00,Westmead Hospital,36
+17:00,Childrens Hospital,33
+17:00,Ngara,22
+17:00,Benaud Oval,17
+17:00,Fennel Street,35
+17:00,Prince Alfred Square,57
+17:00,Church Street,61
+17:00,Parramatta Square,57
+17:00,Robin Thomas,59
+17:00,Tramway Avenue,28
+17:00,Rosehill Gardens,36
+17:00,Yallamundi,29
+17:00,Dundas,30
+17:00,Telopea,30
+17:00,Carlingford,31
+17:07,Westmead,25
+17:07,Westmead Hospital,30
+17:07,Childrens Hospital,26
+17:07,Ngara,18
+17:07,Benaud Oval,30
+17:07,Fennel Street,22
+17:07,Prince Alfred Square,54
+17:07,Church Street,50
+17:07,Parramatta Square,47
+17:07,Robin Thomas,55
+17:07,Tramway Avenue,31
+17:07,Rosehill Gardens,30
+17:07,Yallamundi,22
+17:07,Dundas,27
+17:07,Telopea,31
+17:07,Carlingford,32
+17:15,Westmead,27
+17:15,Westmead Hospital,36
+17:15,Childrens Hospital,24
+17:15,Ngara,34
+17:15,Benaud Oval,27
+17:15,Fennel Street,17
+17:15,Prince Alfred Square,47
+17:15,Church Street,48
+17:15,Parramatta Square,61
+17:15,Robin Thomas,51
+17:15,Tramway Avenue,19
+17:15,Rosehill Gardens,31
+17:15,Yallamundi,33
+17:15,Dundas,26
+17:15,Telopea,28
+17:15,Carlingford,36
+17:22,Westmead,25
+17:22,Westmead Hospital,27
+17:22,Childrens Hospital,21
+17:22,Ngara,17
+17:22,Benaud Oval,33
+17:22,Fennel Street,33
+17:22,Prince Alfred Square,50
+17:22,Church Street,60
+17:22,Parramatta Square,63
+17:22,Robin Thomas,61
+17:22,Tramway Avenue,28
+17:22,Rosehill Gardens,31
+17:22,Yallamundi,27
+17:22,Dundas,30
+17:22,Telopea,29
+17:22,Carlingford,20
+17:30,Westmead,22
+17:30,Westmead Hospital,26
+17:30,Childrens Hospital,36
+17:30,Ngara,30
+17:30,Benaud Oval,36
+17:30,Fennel Street,36
+17:30,Prince Alfred Square,47
+17:30,Church Street,59
+17:30,Parramatta Square,54
+17:30,Robin Thomas,44
+17:30,Tramway Avenue,26
+17:30,Rosehill Gardens,35
+17:30,Yallamundi,19
+17:30,Dundas,27
+17:30,Telopea,34
+17:30,Carlingford,24
+17:37,Westmead,30
+17:37,Westmead Hospital,31
+17:37,Childrens Hospital,34
+17:37,Ngara,27
+17:37,Benaud Oval,29
+17:37,Fennel Street,24
+17:37,Prince Alfred Square,49
+17:37,Church Street,44
+17:37,Parramatta Square,61
+17:37,Robin Thomas,53
+17:37,Tramway Avenue,21
+17:37,Rosehill Gardens,30
+17:37,Yallamundi,36
+17:37,Dundas,28
+17:37,Telopea,36
+17:37,Carlingford,19
+17:45,Westmead,26
+17:45,Westmead Hospital,25
+17:45,Childrens Hospital,21
+17:45,Ngara,32
+17:45,Benaud Oval,35
+17:45,Fennel Street,30
+17:45,Prince Alfred Square,62
+17:45,Church Street,53
+17:45,Parramatta Square,55
+17:45,Robin Thomas,47
+17:45,Tramway Avenue,30
+17:45,Rosehill Gardens,28
+17:45,Yallamundi,36
+17:45,Dundas,19
+17:45,Telopea,30
+17:45,Carlingford,29
+17:52,Westmead,29
+17:52,Westmead Hospital,17
+17:52,Childrens Hospital,20
+17:52,Ngara,34
+17:52,Benaud Oval,34
+17:52,Fennel Street,33
+17:52,Prince Alfred Square,44
+17:52,Church Street,53
+17:52,Parramatta Square,61
+17:52,Robin Thomas,53
+17:52,Tramway Avenue,30
+17:52,Rosehill Gardens,25
+17:52,Yallamundi,23
+17:52,Dundas,23
+17:52,Telopea,30
+17:52,Carlingford,23
+18:00,Westmead,17
+18:00,Westmead Hospital,15
+18:00,Childrens Hospital,16
+18:00,Ngara,11
+18:00,Benaud Oval,9
+18:00,Fennel Street,10
+18:00,Prince Alfred Square,36
+18:00,Church Street,34
+18:00,Parramatta Square,32
+18:00,Robin Thomas,27
+18:00,Tramway Avenue,21
+18:00,Rosehill Gardens,9
+18:00,Yallamundi,12
+18:00,Dundas,3
+18:00,Telopea,21
+18:00,Carlingford,6
+18:15,Westmead,12
+18:15,Westmead Hospital,17
+18:15,Childrens Hospital,6
+18:15,Ngara,10
+18:15,Benaud Oval,19
+18:15,Fennel Street,16
+18:15,Prince Alfred Square,37
+18:15,Church Street,26
+18:15,Parramatta Square,26
+18:15,Robin Thomas,30
+18:15,Tramway Avenue,16
+18:15,Rosehill Gardens,15
+18:15,Yallamundi,9
+18:15,Dundas,18
+18:15,Telopea,3
+18:15,Carlingford,12
+18:30,Westmead,19
+18:30,Westmead Hospital,22
+18:30,Childrens Hospital,10
+18:30,Ngara,5
+18:30,Benaud Oval,9
+18:30,Fennel Street,22
+18:30,Prince Alfred Square,18
+18:30,Church Street,29
+18:30,Parramatta Square,27
+18:30,Robin Thomas,32
+18:30,Tramway Avenue,23
+18:30,Rosehill Gardens,8
+18:30,Yallamundi,16
+18:30,Dundas,7
+18:30,Telopea,6
+18:30,Carlingford,23
+18:45,Westmead,22
+18:45,Westmead Hospital,15
+18:45,Childrens Hospital,19
+18:45,Ngara,7
+18:45,Benaud Oval,3
+18:45,Fennel Street,5
+18:45,Prince Alfred Square,18
+18:45,Church Street,28
+18:45,Parramatta Square,31
+18:45,Robin Thomas,24
+18:45,Tramway Avenue,16
+18:45,Rosehill Gardens,14
+18:45,Yallamundi,16
+18:45,Dundas,6
+18:45,Telopea,13
+18:45,Carlingford,21

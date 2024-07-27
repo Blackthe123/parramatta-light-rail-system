@@ -1,0 +1,1057 @@
+tram_number,time,location
+1,07:00,carlingford
+1,07:07,telopea
+1,07:15,dundas
+1,07:22,yallamundi
+1,07:30,rosehill gardens
+1,07:37,tramway avenue
+1,07:45,robin thomas
+1,07:52,parramatta square
+1,08:00,church street
+1,08:07,prince alfred square
+1,08:15,fennel street
+1,08:22,benaud oval
+1,08:30,ngara
+1,08:45,childrens hospital
+1,09:00,westmead hospital
+1,09:15,westmead
+1,09:30,westmead hospital
+1,09:45,childrens hospital
+1,10:00,ngara
+1,10:15,benaud oval
+1,10:30,fennel street
+1,10:45,prince alfred square
+1,11:00,church street
+1,11:15,parramatta square
+1,11:30,robin thomas
+1,11:45,tramway avenue
+1,12:00,rosehill gardens
+1,12:15,yallamundi
+1,12:30,dundas
+1,12:45,telopea
+1,13:00,carlingford
+1,13:15,telopea
+1,13:30,dundas
+1,13:45,yallamundi
+1,14:00,rosehill gardens
+1,14:15,tramway avenue
+1,14:30,robin thomas
+1,14:45,parramatta square
+1,15:00,church street
+1,15:07,prince alfred square
+1,15:15,fennel street
+1,15:22,benaud oval
+1,15:30,ngara
+1,15:37,childrens hospital
+1,15:45,westmead hospital
+1,15:52,westmead
+1,16:00,westmead hospital
+1,16:07,childrens hospital
+1,16:15,ngara
+1,16:22,benaud oval
+1,16:30,fennel street
+1,16:37,prince alfred square
+1,16:45,church street
+1,16:52,parramatta square
+1,17:00,robin thomas
+1,17:07,tramway avenue
+1,17:15,rosehill gardens
+1,17:22,yallamundi
+1,17:30,dundas
+1,17:37,telopea
+1,17:45,carlingford
+1,17:52,telopea
+1,18:00,dundas
+1,18:15,yallamundi
+1,18:30,rosehill gardens
+1,18:45,tramway avenue
+2,07:00,dundas
+2,07:07,yallamundi
+2,07:15,rosehill gardens
+2,07:22,tramway avenue
+2,07:30,robin thomas
+2,07:37,parramatta square
+2,07:45,church street
+2,07:52,prince alfred square
+2,08:00,fennel street
+2,08:07,benaud oval
+2,08:15,ngara
+2,08:22,childrens hospital
+2,08:30,westmead hospital
+2,08:45,westmead
+2,09:00,westmead hospital
+2,09:15,childrens hospital
+2,09:30,ngara
+2,09:45,benaud oval
+2,10:00,fennel street
+2,10:15,prince alfred square
+2,10:30,church street
+2,10:45,parramatta square
+2,11:00,robin thomas
+2,11:15,tramway avenue
+2,11:30,rosehill gardens
+2,11:45,yallamundi
+2,12:00,dundas
+2,12:15,telopea
+2,12:30,carlingford
+2,12:45,telopea
+2,13:00,dundas
+2,13:15,yallamundi
+2,13:30,rosehill gardens
+2,13:45,tramway avenue
+2,14:00,robin thomas
+2,14:15,parramatta square
+2,14:30,church street
+2,14:45,prince alfred square
+2,15:00,fennel street
+2,15:07,benaud oval
+2,15:15,ngara
+2,15:22,childrens hospital
+2,15:30,westmead hospital
+2,15:37,westmead
+2,15:45,westmead hospital
+2,15:52,childrens hospital
+2,16:00,ngara
+2,16:07,benaud oval
+2,16:15,fennel street
+2,16:22,prince alfred square
+2,16:30,church street
+2,16:37,parramatta square
+2,16:45,robin thomas
+2,16:52,tramway avenue
+2,17:00,rosehill gardens
+2,17:07,yallamundi
+2,17:15,dundas
+2,17:22,telopea
+2,17:30,carlingford
+2,17:37,telopea
+2,17:45,dundas
+2,17:52,yallamundi
+2,18:00,rosehill gardens
+2,18:15,tramway avenue
+2,18:30,robin thomas
+2,18:45,parramatta square
+3,07:00,rosehill gardens
+3,07:07,tramway avenue
+3,07:15,robin thomas
+3,07:22,parramatta square
+3,07:30,church street
+3,07:37,prince alfred square
+3,07:45,fennel street
+3,07:52,benaud oval
+3,08:00,ngara
+3,08:07,childrens hospital
+3,08:15,westmead hospital
+3,08:22,westmead
+3,08:30,westmead hospital
+3,08:45,childrens hospital
+3,09:00,ngara
+3,09:15,benaud oval
+3,09:30,fennel street
+3,09:45,prince alfred square
+3,10:00,church street
+3,10:15,parramatta square
+3,10:30,robin thomas
+3,10:45,tramway avenue
+3,11:00,rosehill gardens
+3,11:15,yallamundi
+3,11:30,dundas
+3,11:45,telopea
+3,12:00,carlingford
+3,12:15,telopea
+3,12:30,dundas
+3,12:45,yallamundi
+3,13:00,rosehill gardens
+3,13:15,tramway avenue
+3,13:30,robin thomas
+3,13:45,parramatta square
+3,14:00,church street
+3,14:15,prince alfred square
+3,14:30,fennel street
+3,14:45,benaud oval
+3,15:00,ngara
+3,15:07,childrens hospital
+3,15:15,westmead hospital
+3,15:22,westmead
+3,15:30,westmead hospital
+3,15:37,childrens hospital
+3,15:45,ngara
+3,15:52,benaud oval
+3,16:00,fennel street
+3,16:07,prince alfred square
+3,16:15,church street
+3,16:22,parramatta square
+3,16:30,robin thomas
+3,16:37,tramway avenue
+3,16:45,rosehill gardens
+3,16:52,yallamundi
+3,17:00,dundas
+3,17:07,telopea
+3,17:15,carlingford
+3,17:22,telopea
+3,17:30,dundas
+3,17:37,yallamundi
+3,17:45,rosehill gardens
+3,17:52,tramway avenue
+3,18:00,robin thomas
+3,18:15,parramatta square
+3,18:30,church street
+3,18:45,prince alfred square
+4,07:00,robin thomas
+4,07:07,parramatta square
+4,07:15,church street
+4,07:22,prince alfred square
+4,07:30,fennel street
+4,07:37,benaud oval
+4,07:45,ngara
+4,07:52,childrens hospital
+4,08:00,westmead hospital
+4,08:07,westmead
+4,08:15,westmead hospital
+4,08:22,childrens hospital
+4,08:30,ngara
+4,08:45,benaud oval
+4,09:00,fennel street
+4,09:15,prince alfred square
+4,09:30,church street
+4,09:45,parramatta square
+4,10:00,robin thomas
+4,10:15,tramway avenue
+4,10:30,rosehill gardens
+4,10:45,yallamundi
+4,11:00,dundas
+4,11:15,telopea
+4,11:30,carlingford
+4,11:45,telopea
+4,12:00,dundas
+4,12:15,yallamundi
+4,12:30,rosehill gardens
+4,12:45,tramway avenue
+4,13:00,robin thomas
+4,13:15,parramatta square
+4,13:30,church street
+4,13:45,prince alfred square
+4,14:00,fennel street
+4,14:15,benaud oval
+4,14:30,ngara
+4,14:45,childrens hospital
+4,15:00,westmead hospital
+4,15:07,westmead
+4,15:15,westmead hospital
+4,15:22,childrens hospital
+4,15:30,ngara
+4,15:37,benaud oval
+4,15:45,fennel street
+4,15:52,prince alfred square
+4,16:00,church street
+4,16:07,parramatta square
+4,16:15,robin thomas
+4,16:22,tramway avenue
+4,16:30,rosehill gardens
+4,16:37,yallamundi
+4,16:45,dundas
+4,16:52,telopea
+4,17:00,carlingford
+4,17:07,telopea
+4,17:15,dundas
+4,17:22,yallamundi
+4,17:30,rosehill gardens
+4,17:37,tramway avenue
+4,17:45,robin thomas
+4,17:52,parramatta square
+4,18:00,church street
+4,18:15,prince alfred square
+4,18:30,fennel street
+4,18:45,benaud oval
+5,07:00,church street
+5,07:07,prince alfred square
+5,07:15,fennel street
+5,07:22,benaud oval
+5,07:30,ngara
+5,07:37,childrens hospital
+5,07:45,westmead hospital
+5,07:52,westmead
+5,08:00,westmead hospital
+5,08:07,childrens hospital
+5,08:15,ngara
+5,08:22,benaud oval
+5,08:30,fennel street
+5,08:45,prince alfred square
+5,09:00,church street
+5,09:15,parramatta square
+5,09:30,robin thomas
+5,09:45,tramway avenue
+5,10:00,rosehill gardens
+5,10:15,yallamundi
+5,10:30,dundas
+5,10:45,telopea
+5,11:00,carlingford
+5,11:15,telopea
+5,11:30,dundas
+5,11:45,yallamundi
+5,12:00,rosehill gardens
+5,12:15,tramway avenue
+5,12:30,robin thomas
+5,12:45,parramatta square
+5,13:00,church street
+5,13:15,prince alfred square
+5,13:30,fennel street
+5,13:45,benaud oval
+5,14:00,ngara
+5,14:15,childrens hospital
+5,14:30,westmead hospital
+5,14:45,westmead
+5,15:00,westmead hospital
+5,15:07,childrens hospital
+5,15:15,ngara
+5,15:22,benaud oval
+5,15:30,fennel street
+5,15:37,prince alfred square
+5,15:45,church street
+5,15:52,parramatta square
+5,16:00,robin thomas
+5,16:07,tramway avenue
+5,16:15,rosehill gardens
+5,16:22,yallamundi
+5,16:30,dundas
+5,16:37,telopea
+5,16:45,carlingford
+5,16:52,telopea
+5,17:00,dundas
+5,17:07,yallamundi
+5,17:15,rosehill gardens
+5,17:22,tramway avenue
+5,17:30,robin thomas
+5,17:37,parramatta square
+5,17:45,church street
+5,17:52,prince alfred square
+5,18:00,fennel street
+5,18:15,benaud oval
+5,18:30,ngara
+5,18:45,childrens hospital
+6,07:00,fennel street
+6,07:07,benaud oval
+6,07:15,ngara
+6,07:22,childrens hospital
+6,07:30,westmead hospital
+6,07:37,westmead
+6,07:45,westmead hospital
+6,07:52,childrens hospital
+6,08:00,ngara
+6,08:07,benaud oval
+6,08:15,fennel street
+6,08:22,prince alfred square
+6,08:30,church street
+6,08:45,parramatta square
+6,09:00,robin thomas
+6,09:15,tramway avenue
+6,09:30,rosehill gardens
+6,09:45,yallamundi
+6,10:00,dundas
+6,10:15,telopea
+6,10:30,carlingford
+6,10:45,telopea
+6,11:00,dundas
+6,11:15,yallamundi
+6,11:30,rosehill gardens
+6,11:45,tramway avenue
+6,12:00,robin thomas
+6,12:15,parramatta square
+6,12:30,church street
+6,12:45,prince alfred square
+6,13:00,fennel street
+6,13:15,benaud oval
+6,13:30,ngara
+6,13:45,childrens hospital
+6,14:00,westmead hospital
+6,14:15,westmead
+6,14:30,westmead hospital
+6,14:45,childrens hospital
+6,15:00,ngara
+6,15:07,benaud oval
+6,15:15,fennel street
+6,15:22,prince alfred square
+6,15:30,church street
+6,15:37,parramatta square
+6,15:45,robin thomas
+6,15:52,tramway avenue
+6,16:00,rosehill gardens
+6,16:07,yallamundi
+6,16:15,dundas
+6,16:22,telopea
+6,16:30,carlingford
+6,16:37,telopea
+6,16:45,dundas
+6,16:52,yallamundi
+6,17:00,rosehill gardens
+6,17:07,tramway avenue
+6,17:15,robin thomas
+6,17:22,parramatta square
+6,17:30,church street
+6,17:37,prince alfred square
+6,17:45,fennel street
+6,17:52,benaud oval
+6,18:00,ngara
+6,18:15,childrens hospital
+6,18:30,westmead hospital
+6,18:45,westmead
+7,07:00,ngara
+7,07:07,childrens hospital
+7,07:15,westmead hospital
+7,07:22,westmead
+7,07:30,westmead hospital
+7,07:37,childrens hospital
+7,07:45,ngara
+7,07:52,benaud oval
+7,08:00,fennel street
+7,08:07,prince alfred square
+7,08:15,church street
+7,08:22,parramatta square
+7,08:30,robin thomas
+7,08:45,tramway avenue
+7,09:00,rosehill gardens
+7,09:15,yallamundi
+7,09:30,dundas
+7,09:45,telopea
+7,10:00,carlingford
+7,10:15,telopea
+7,10:30,dundas
+7,10:45,yallamundi
+7,11:00,rosehill gardens
+7,11:15,tramway avenue
+7,11:30,robin thomas
+7,11:45,parramatta square
+7,12:00,church street
+7,12:15,prince alfred square
+7,12:30,fennel street
+7,12:45,benaud oval
+7,13:00,ngara
+7,13:15,childrens hospital
+7,13:30,westmead hospital
+7,13:45,westmead
+7,14:00,westmead hospital
+7,14:15,childrens hospital
+7,14:30,ngara
+7,14:45,benaud oval
+7,15:00,fennel street
+7,15:07,prince alfred square
+7,15:15,church street
+7,15:22,parramatta square
+7,15:30,robin thomas
+7,15:37,tramway avenue
+7,15:45,rosehill gardens
+7,15:52,yallamundi
+7,16:00,dundas
+7,16:07,telopea
+7,16:15,carlingford
+7,16:22,telopea
+7,16:30,dundas
+7,16:37,yallamundi
+7,16:45,rosehill gardens
+7,16:52,tramway avenue
+7,17:00,robin thomas
+7,17:07,parramatta square
+7,17:15,church street
+7,17:22,prince alfred square
+7,17:30,fennel street
+7,17:37,benaud oval
+7,17:45,ngara
+7,17:52,childrens hospital
+7,18:00,westmead hospital
+7,18:15,westmead
+7,18:30,westmead hospital
+7,18:45,childrens hospital
+8,07:00,westmead
+8,07:07,westmead hospital
+8,07:15,childrens hospital
+8,07:22,ngara
+8,07:30,benaud oval
+8,07:37,fennel street
+8,07:45,prince alfred square
+8,07:52,church street
+8,08:00,parramatta square
+8,08:07,robin thomas
+8,08:15,tramway avenue
+8,08:22,rosehill gardens
+8,08:30,yallamundi
+8,08:45,dundas
+8,09:00,telopea
+8,09:15,carlingford
+8,09:30,telopea
+8,09:45,dundas
+8,10:00,yallamundi
+8,10:15,rosehill gardens
+8,10:30,tramway avenue
+8,10:45,robin thomas
+8,11:00,parramatta square
+8,11:15,church street
+8,11:30,prince alfred square
+8,11:45,fennel street
+8,12:00,benaud oval
+8,12:15,ngara
+8,12:30,childrens hospital
+8,12:45,westmead hospital
+8,13:00,westmead
+8,13:15,westmead hospital
+8,13:30,childrens hospital
+8,13:45,ngara
+8,14:00,benaud oval
+8,14:15,fennel street
+8,14:30,prince alfred square
+8,14:45,church street
+8,15:00,parramatta square
+8,15:07,robin thomas
+8,15:15,tramway avenue
+8,15:22,rosehill gardens
+8,15:30,yallamundi
+8,15:37,dundas
+8,15:45,telopea
+8,15:52,carlingford
+8,16:00,telopea
+8,16:07,dundas
+8,16:15,yallamundi
+8,16:22,rosehill gardens
+8,16:30,tramway avenue
+8,16:37,robin thomas
+8,16:45,parramatta square
+8,16:52,church street
+8,17:00,prince alfred square
+8,17:07,fennel street
+8,17:15,benaud oval
+8,17:22,ngara
+8,17:30,childrens hospital
+8,17:37,westmead hospital
+8,17:45,westmead
+8,17:52,westmead hospital
+8,18:00,childrens hospital
+8,18:15,ngara
+8,18:30,benaud oval
+8,18:45,fennel street
+9,07:00,westmead hospital
+9,07:07,childrens hospital
+9,07:15,ngara
+9,07:22,benaud oval
+9,07:30,fennel street
+9,07:37,prince alfred square
+9,07:45,church street
+9,07:52,parramatta square
+9,08:00,robin thomas
+9,08:07,tramway avenue
+9,08:15,rosehill gardens
+9,08:22,yallamundi
+9,08:30,dundas
+9,08:45,telopea
+9,09:00,carlingford
+9,09:15,telopea
+9,09:30,dundas
+9,09:45,yallamundi
+9,10:00,rosehill gardens
+9,10:15,tramway avenue
+9,10:30,robin thomas
+9,10:45,parramatta square
+9,11:00,church street
+9,11:15,prince alfred square
+9,11:30,fennel street
+9,11:45,benaud oval
+9,12:00,ngara
+9,12:15,childrens hospital
+9,12:30,westmead hospital
+9,12:45,westmead
+9,13:00,westmead hospital
+9,13:15,childrens hospital
+9,13:30,ngara
+9,13:45,benaud oval
+9,14:00,fennel street
+9,14:15,prince alfred square
+9,14:30,church street
+9,14:45,parramatta square
+9,15:00,robin thomas
+9,15:07,tramway avenue
+9,15:15,rosehill gardens
+9,15:22,yallamundi
+9,15:30,dundas
+9,15:37,telopea
+9,15:45,carlingford
+9,15:52,telopea
+9,16:00,dundas
+9,16:07,yallamundi
+9,16:15,rosehill gardens
+9,16:22,tramway avenue
+9,16:30,robin thomas
+9,16:37,parramatta square
+9,16:45,church street
+9,16:52,prince alfred square
+9,17:00,fennel street
+9,17:07,benaud oval
+9,17:15,ngara
+9,17:22,childrens hospital
+9,17:30,westmead hospital
+9,17:37,westmead
+9,17:45,westmead hospital
+9,17:52,childrens hospital
+9,18:00,ngara
+9,18:15,benaud oval
+9,18:30,fennel street
+9,18:45,prince alfred square
+10,07:00,benaud oval
+10,07:07,fennel street
+10,07:15,prince alfred square
+10,07:22,church street
+10,07:30,parramatta square
+10,07:37,robin thomas
+10,07:45,tramway avenue
+10,07:52,rosehill gardens
+10,08:00,yallamundi
+10,08:07,dundas
+10,08:15,telopea
+10,08:22,carlingford
+10,08:30,telopea
+10,08:45,dundas
+10,09:00,yallamundi
+10,09:15,rosehill gardens
+10,09:30,tramway avenue
+10,09:45,robin thomas
+10,10:00,parramatta square
+10,10:15,church street
+10,10:30,prince alfred square
+10,10:45,fennel street
+10,11:00,benaud oval
+10,11:15,ngara
+10,11:30,childrens hospital
+10,11:45,westmead hospital
+10,12:00,westmead
+10,12:15,westmead hospital
+10,12:30,childrens hospital
+10,12:45,ngara
+10,13:00,benaud oval
+10,13:15,fennel street
+10,13:30,prince alfred square
+10,13:45,church street
+10,14:00,parramatta square
+10,14:15,robin thomas
+10,14:30,tramway avenue
+10,14:45,rosehill gardens
+10,15:00,yallamundi
+10,15:07,dundas
+10,15:15,telopea
+10,15:22,carlingford
+10,15:30,telopea
+10,15:37,dundas
+10,15:45,yallamundi
+10,15:52,rosehill gardens
+10,16:00,tramway avenue
+10,16:07,robin thomas
+10,16:15,parramatta square
+10,16:22,church street
+10,16:30,prince alfred square
+10,16:37,fennel street
+10,16:45,benaud oval
+10,16:52,ngara
+10,17:00,childrens hospital
+10,17:07,westmead hospital
+10,17:15,westmead
+10,17:22,westmead hospital
+10,17:30,childrens hospital
+10,17:37,ngara
+10,17:45,benaud oval
+10,17:52,fennel street
+10,18:00,prince alfred square
+10,18:15,church street
+10,18:30,parramatta square
+10,18:45,robin thomas
+11,07:00,prince alfred square
+11,07:07,church street
+11,07:15,parramatta square
+11,07:22,robin thomas
+11,07:30,tramway avenue
+11,07:37,rosehill gardens
+11,07:45,yallamundi
+11,07:52,dundas
+11,08:00,telopea
+11,08:07,carlingford
+11,08:15,telopea
+11,08:22,dundas
+11,08:30,yallamundi
+11,08:45,rosehill gardens
+11,09:00,tramway avenue
+11,09:15,robin thomas
+11,09:30,parramatta square
+11,09:45,church street
+11,10:00,prince alfred square
+11,10:15,fennel street
+11,10:30,benaud oval
+11,10:45,ngara
+11,11:00,childrens hospital
+11,11:15,westmead hospital
+11,11:30,westmead
+11,11:45,westmead hospital
+11,12:00,childrens hospital
+11,12:15,ngara
+11,12:30,benaud oval
+11,12:45,fennel street
+11,13:00,prince alfred square
+11,13:15,church street
+11,13:30,parramatta square
+11,13:45,robin thomas
+11,14:00,tramway avenue
+11,14:15,rosehill gardens
+11,14:30,yallamundi
+11,14:45,dundas
+11,15:00,telopea
+11,15:07,carlingford
+11,15:15,telopea
+11,15:22,dundas
+11,15:30,yallamundi
+11,15:37,rosehill gardens
+11,15:45,tramway avenue
+11,15:52,robin thomas
+11,16:00,parramatta square
+11,16:07,church street
+11,16:15,prince alfred square
+11,16:22,fennel street
+11,16:30,benaud oval
+11,16:37,ngara
+11,16:45,childrens hospital
+11,16:52,westmead hospital
+11,17:00,westmead
+11,17:07,westmead hospital
+11,17:15,childrens hospital
+11,17:22,ngara
+11,17:30,benaud oval
+11,17:37,fennel street
+11,17:45,prince alfred square
+11,17:52,church street
+11,18:00,parramatta square
+11,18:15,robin thomas
+11,18:30,tramway avenue
+11,18:45,rosehill gardens
+12,07:00,parramatta square
+12,07:07,robin thomas
+12,07:15,tramway avenue
+12,07:22,rosehill gardens
+12,07:30,yallamundi
+12,07:37,dundas
+12,07:45,telopea
+12,07:52,carlingford
+12,08:00,telopea
+12,08:07,dundas
+12,08:15,yallamundi
+12,08:22,rosehill gardens
+12,08:30,tramway avenue
+12,08:45,robin thomas
+12,09:00,parramatta square
+12,09:15,church street
+12,09:30,prince alfred square
+12,09:45,fennel street
+12,10:00,benaud oval
+12,10:15,ngara
+12,10:30,childrens hospital
+12,10:45,westmead hospital
+12,11:00,westmead
+12,11:15,westmead hospital
+12,11:30,childrens hospital
+12,11:45,ngara
+12,12:00,benaud oval
+12,12:15,fennel street
+12,12:30,prince alfred square
+12,12:45,church street
+12,13:00,parramatta square
+12,13:15,robin thomas
+12,13:30,tramway avenue
+12,13:45,rosehill gardens
+12,14:00,yallamundi
+12,14:15,dundas
+12,14:30,telopea
+12,14:45,carlingford
+12,15:00,telopea
+12,15:07,dundas
+12,15:15,yallamundi
+12,15:22,rosehill gardens
+12,15:30,tramway avenue
+12,15:37,robin thomas
+12,15:45,parramatta square
+12,15:52,church street
+12,16:00,prince alfred square
+12,16:07,fennel street
+12,16:15,benaud oval
+12,16:22,ngara
+12,16:30,childrens hospital
+12,16:37,westmead hospital
+12,16:45,westmead
+12,16:52,westmead hospital
+12,17:00,childrens hospital
+12,17:07,ngara
+12,17:15,benaud oval
+12,17:22,fennel street
+12,17:30,prince alfred square
+12,17:37,church street
+12,17:45,parramatta square
+12,17:52,robin thomas
+12,18:00,tramway avenue
+12,18:15,rosehill gardens
+12,18:30,yallamundi
+12,18:45,dundas
+13,07:00,tramway avenue
+13,07:07,rosehill gardens
+13,07:15,yallamundi
+13,07:22,dundas
+13,07:30,telopea
+13,07:37,carlingford
+13,07:45,telopea
+13,07:52,dundas
+13,08:00,yallamundi
+13,08:07,rosehill gardens
+13,08:15,tramway avenue
+13,08:22,robin thomas
+13,08:30,parramatta square
+13,08:45,church street
+13,09:00,prince alfred square
+13,09:15,fennel street
+13,09:30,benaud oval
+13,09:45,ngara
+13,10:00,childrens hospital
+13,10:15,westmead hospital
+13,10:30,westmead
+13,10:45,westmead hospital
+13,11:00,childrens hospital
+13,11:15,ngara
+13,11:30,benaud oval
+13,11:45,fennel street
+13,12:00,prince alfred square
+13,12:15,church street
+13,12:30,parramatta square
+13,12:45,robin thomas
+13,13:00,tramway avenue
+13,13:15,rosehill gardens
+13,13:30,yallamundi
+13,13:45,dundas
+13,14:00,telopea
+13,14:15,carlingford
+13,14:30,telopea
+13,14:45,dundas
+13,15:00,yallamundi
+13,15:07,rosehill gardens
+13,15:15,tramway avenue
+13,15:22,robin thomas
+13,15:30,parramatta square
+13,15:37,church street
+13,15:45,prince alfred square
+13,15:52,fennel street
+13,16:00,benaud oval
+13,16:07,ngara
+13,16:15,childrens hospital
+13,16:22,westmead hospital
+13,16:30,westmead
+13,16:37,westmead hospital
+13,16:45,childrens hospital
+13,16:52,ngara
+13,17:00,benaud oval
+13,17:07,fennel street
+13,17:15,prince alfred square
+13,17:22,church street
+13,17:30,parramatta square
+13,17:37,robin thomas
+13,17:45,tramway avenue
+13,17:52,rosehill gardens
+13,18:00,yallamundi
+13,18:15,dundas
+13,18:30,telopea
+13,18:45,carlingford
+14,07:00,yallamundi
+14,07:07,dundas
+14,07:15,telopea
+14,07:22,carlingford
+14,07:30,telopea
+14,07:37,dundas
+14,07:45,yallamundi
+14,07:52,rosehill gardens
+14,08:00,tramway avenue
+14,08:07,robin thomas
+14,08:15,parramatta square
+14,08:22,church street
+14,08:30,prince alfred square
+14,08:45,fennel street
+14,09:00,benaud oval
+14,09:15,ngara
+14,09:30,childrens hospital
+14,09:45,westmead hospital
+14,10:00,westmead
+14,10:15,westmead hospital
+14,10:30,childrens hospital
+14,10:45,ngara
+14,11:00,benaud oval
+14,11:15,fennel street
+14,11:30,prince alfred square
+14,11:45,church street
+14,12:00,parramatta square
+14,12:15,robin thomas
+14,12:30,tramway avenue
+14,12:45,rosehill gardens
+14,13:00,yallamundi
+14,13:15,dundas
+14,13:30,telopea
+14,13:45,carlingford
+14,14:00,telopea
+14,14:15,dundas
+14,14:30,yallamundi
+14,14:45,rosehill gardens
+14,15:00,tramway avenue
+14,15:07,robin thomas
+14,15:15,parramatta square
+14,15:22,church street
+14,15:30,prince alfred square
+14,15:37,fennel street
+14,15:45,benaud oval
+14,15:52,ngara
+14,16:00,childrens hospital
+14,16:07,westmead hospital
+14,16:15,westmead
+14,16:22,westmead hospital
+14,16:30,childrens hospital
+14,16:37,ngara
+14,16:45,benaud oval
+14,16:52,fennel street
+14,17:00,prince alfred square
+14,17:07,church street
+14,17:15,parramatta square
+14,17:22,robin thomas
+14,17:30,tramway avenue
+14,17:37,rosehill gardens
+14,17:45,yallamundi
+14,17:52,dundas
+14,18:00,telopea
+14,18:15,carlingford
+14,18:30,telopea
+14,18:45,dundas
+15,07:00,telopea
+15,07:07,carlingford
+15,07:15,telopea
+15,07:22,dundas
+15,07:30,yallamundi
+15,07:37,rosehill gardens
+15,07:45,tramway avenue
+15,07:52,robin thomas
+15,08:00,parramatta square
+15,08:07,church street
+15,08:15,prince alfred square
+15,08:22,fennel street
+15,08:30,benaud oval
+15,08:45,ngara
+15,09:00,childrens hospital
+15,09:15,westmead hospital
+15,09:30,westmead
+15,09:45,westmead hospital
+15,10:00,childrens hospital
+15,10:15,ngara
+15,10:30,benaud oval
+15,10:45,fennel street
+15,11:00,prince alfred square
+15,11:15,church street
+15,11:30,parramatta square
+15,11:45,robin thomas
+15,12:00,tramway avenue
+15,12:15,rosehill gardens
+15,12:30,yallamundi
+15,12:45,dundas
+15,13:00,telopea
+15,13:15,carlingford
+15,13:30,telopea
+15,13:45,dundas
+15,14:00,yallamundi
+15,14:15,rosehill gardens
+15,14:30,tramway avenue
+15,14:45,robin thomas
+15,15:00,parramatta square
+15,15:07,church street
+15,15:15,prince alfred square
+15,15:22,fennel street
+15,15:30,benaud oval
+15,15:37,ngara
+15,15:45,childrens hospital
+15,15:52,westmead hospital
+15,16:00,westmead
+15,16:07,westmead hospital
+15,16:15,childrens hospital
+15,16:22,ngara
+15,16:30,benaud oval
+15,16:37,fennel street
+15,16:45,prince alfred square
+15,16:52,church street
+15,17:00,parramatta square
+15,17:07,robin thomas
+15,17:15,tramway avenue
+15,17:22,rosehill gardens
+15,17:30,yallamundi
+15,17:37,dundas
+15,17:45,telopea
+15,17:52,carlingford
+15,18:00,telopea
+15,18:15,dundas
+15,18:30,yallamundi
+15,18:45,rosehill gardens
+16,07:00,childrens hospital
+16,07:07,ngara
+16,07:15,benaud oval
+16,07:22,fennel street
+16,07:30,prince alfred square
+16,07:37,church street
+16,07:45,parramatta square
+16,07:52,robin thomas
+16,08:00,tramway avenue
+16,08:07,rosehill gardens
+16,08:15,yallamundi
+16,08:22,dundas
+16,08:30,telopea
+16,08:45,carlingford
+16,09:00,telopea
+16,09:15,dundas
+16,09:30,yallamundi
+16,09:45,rosehill gardens
+16,10:00,tramway avenue
+16,10:15,robin thomas
+16,10:30,parramatta square
+16,10:45,church street
+16,11:00,prince alfred square
+16,11:15,fennel street
+16,11:30,benaud oval
+16,11:45,ngara
+16,12:00,childrens hospital
+16,12:15,westmead hospital
+16,12:30,westmead
+16,12:45,church street
+16,13:00,childrens hospital
+16,13:15,ngara
+16,13:30,benaud oval
+16,13:45,fennel street
+16,14:00,prince alfred square
+16,14:15,church street
+16,14:30,parramatta square
+16,14:45,robin thomas
+16,15:00,tramway avenue
+16,15:07,rosehill gardens
+16,15:15,yallamundi
+16,15:22,dundas
+16,15:30,telopea
+16,15:37,carlingford
+16,15:45,telopea
+16,15:52,dundas
+16,16:00,yallamundi
+16,16:07,rosehill gardens
+16,16:15,tramway avenue
+16,16:22,robin thomas
+16,16:30,parramatta square
+16,16:37,church street
+16,16:45,prince alfred square
+16,16:52,fennel street
+16,17:00,benaud oval
+16,17:07,ngara
+16,17:15,childrens hospital
+16,17:22,westmead hospital
+16,17:30,westmead
+16,17:37,church street
+16,17:45,childrens hospital
+16,17:52,ngara
+16,18:00,benaud oval
+16,18:15,fennel street
+16,18:30,prince alfred square
+16,18:45,church street
